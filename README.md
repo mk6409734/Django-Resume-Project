@@ -1,0 +1,1 @@
+# This is RESUME TEMPLATE design in django.
